@@ -29,7 +29,7 @@ Create New Metamask Wallet
 
 ---
 
-### Open Command Prompt & Put Below Command
+### Open Command Prompt & Put Below Command Only VPS
 ```
 ssh root@IP_Address
 ```
