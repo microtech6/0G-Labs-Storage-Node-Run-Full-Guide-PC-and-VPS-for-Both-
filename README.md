@@ -29,6 +29,12 @@ Create New Metamask Wallet
 
 ---
 
+### Open Command Prompt & Put Below Command
+```
+ssh root@IP_Address
+```
+Remove IP_Address then Put ur Own IP Address
+
 1️⃣ Dependencies for WINDOWS & LINUX & VPS
 ```
 sudo apt-get update && sudo apt-get upgrade -y
